@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "food_name": "Spaghetti Bolognese",
+    "food_image": "https://i.ibb.co/sQzRDpd/pasta.jpg",
+    "food_category": "Pasta",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "food_name": "Chicken Caesar Salad",
+    "food_image": "https://i.ibb.co/tx7JCVY/salad-2756467-1280.jpg",
+    "food_category": "Salad",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "food_name": "Margherita Pizza",
+    "food_image": "https://i.ibb.co/NxdbWbp/pizza.jpg",
+    "food_category": "Pizza",
+    "price": 14.99
+  },
+  {
+    "id": 4,
+    "food_name": "Grilled Salmon",
+    "food_image": "https://i.ibb.co/mFDzbcQ/seafood.jpg",
+    "food_category": "Seafood",
+    "price": 18.99
+  },
+  {
+    "id": 5,
+    "food_name": "Vegetable Stir-Fry",
+    "food_image": "https://i.ibb.co/YPVZQKH/vegetarian.jpg",
+    "food_category": "Vegetarian",
+    "price": 10.99
+  },
+  {
+    "id": 6,
+    "food_name": "Chocolate Lava Cake",
+    "food_image": "https://i.ibb.co/xs3bm2j/dessert.jpg",
+    "food_category": "Dessert",
+    "price": 7.99
+  }
+]
